@@ -2,11 +2,9 @@
 	<v-app>
 		<Menu />
 		<Toolbar />
-
 		<v-content>
 			<Carousel />
 		</v-content>
-
 		<Footer />
 	</v-app>
 </template>
